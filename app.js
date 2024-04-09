@@ -49,8 +49,8 @@ const projectList = [
   },
   {
     title: "My Resume Site",
-    description: "Created my resume with FRont-End Development techniques and deployed to GitHub pages and Azure.",
-    url: "https://github.com/mtalha10/portfolio",
+    description: "Created my resume with Front-End Development techniques and deployed to GitHub pages and Azure.",
+    url: "https://mtalha10.github.io/talha.github.io/",
   },
   {
     title: "Building NLP Applications with Hugging Face",
